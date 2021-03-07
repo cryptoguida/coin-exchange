@@ -1,8 +1,11 @@
+html {
+    font-size: 10px;
+}
 h1 {
-    front-size: 72px;
-    color: rgba(65, 110, 168, 0.507);
+    font-size: 4.8rem;
+    color: rgb(49, 79, 134);
 }
 
-{
+p{
     font-size: 18px;
 }
